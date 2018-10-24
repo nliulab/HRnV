@@ -2,7 +2,8 @@
 Heart Rate n-Variability (HRnV): A Novel Representation of Beat-to-Beat Variation in Electrocardiography
 
 Nan Liu*, Dagang Guo, Zhi Xiong Koh, Andrew Fu Wah Ho, Marcus Eng Hock Ong
-\* liu.nan AT duke-nus.edu.sg
+
+\* e-mail: liu.nan AT duke-nus.edu.sg
 
 doi: https://doi.org/10.1101/449504
 
