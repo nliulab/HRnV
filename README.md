@@ -5,7 +5,7 @@ If you are using HRnV and its software (HRnV tool is developed based on the Phys
 
 > 2) Vest A, Da Poian G, Li Q, Liu C, Nemati S, Shah A, Clifford GD. An Open Source Benchmarked Toolbox for Cardiovascular Waveform and Interval Analysis. Physiological measurement 39, no. 10 (2018): 105004. DOI:10.5281/zenodo.1243111; 2018. 
 
-\* Contact e-mail: liu.nan AT duke-nus.edu.sg
+\* Contact Dr Nan Liu: liu.nan AT duke-nus.edu.sg
 
 ## Introduction
 We propose a novel representation of beat-to-beat variation in electrocardiogram (ECG), called heart rate n-variability (HRnV), as an alternative to conventional heart rate variability (HRV). The derivation of HRnV parameters are based on multiple RR intervals with or without overlaps. We are able to create many sets of HRnV parameters which are promising at generating extra information from limited data source. We believe that HRnV is an important addition to traditional HRV, and will contribute to extending the landscape of current studies on HRV.
