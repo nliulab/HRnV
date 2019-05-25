@@ -1,7 +1,8 @@
 # Heart Rate n-Variability (HRnV): A Novel Representation of Beat-to-Beat Variation in Electrocardiography
 
-If you are using HRnV and its software, please cite:
+If you are using HRnV and its software (HRnV tool is developed based on the PhysioNet Cardiovascular Signal Toolbox), please cite:
 > Liu N, Guo DG, Koh ZX, Ho AFW, Ong MEH. Heart rate n-variability (HRnV): A novel representation of beat-to-beat variation in electrocardiogram. bioRxiv 2018; 449504. doi: https://doi.org/10.1101/449504
+> Vest A, Da Poian G, Li Q, Liu C, Nemati S, Shah A, Clifford GD. An Open Source Benchmarked Toolbox for Cardiovascular Waveform and Interval Analysis. Physiological measurement 39, no. 10 (2018): 105004. DOI:10.5281/zenodo.1243111; 2018. 
 
 \* e-mail: liu.nan AT duke-nus.edu.sg
 
