@@ -1,8 +1,8 @@
 # HRnV: Heart Rate n-Variability
-Heart Rate n-Variability (HRnV): A Novel Representation of Beat-to-Beat Variation in Electrocardiography
+**Heart Rate n-Variability (HRnV): A Novel Representation of Beat-to-Beat Variation in Electrocardiography**
 
 If you are using HRnV and its software, please cite:
-Liu N, Guo DG, Koh ZX, Ho AFW, Ong MEH. Heart rate n-variability (HRnV): A novel representation of beat-to-beat variation in electrocardiogram. bioRxiv 2018; 449504. doi: https://doi.org/10.1101/449504
+> Liu N, Guo DG, Koh ZX, Ho AFW, Ong MEH. Heart rate n-variability (HRnV): A novel representation of beat-to-beat variation in electrocardiogram. bioRxiv 2018; 449504. doi: https://doi.org/10.1101/449504
 
 \* e-mail: liu.nan AT duke-nus.edu.sg
 
