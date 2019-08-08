@@ -12,7 +12,7 @@ If you are conducting research on HRnV or use HRnV-Calc software (HRnV-Calc tool
 ## Introduction
 We propose a novel representation of beat-to-beat variation in electrocardiogram (ECG), called heart rate n-variability (HRnV), as an alternative to conventional heart rate variability (HRV). The derivation of HRnV parameters are based on multiple RR intervals with or without overlaps. We are able to create many sets of HRnV parameters which are promising at generating extra information from limited data source. We believe that HRnV is an important addition to traditional HRV, and will contribute to extending the landscape of current studies on HRV.
 
-## HRnV Software
+## HRnV-Calc Software
 To update.
 
 ## HRnV Applications
