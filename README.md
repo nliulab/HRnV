@@ -1,6 +1,6 @@
 # Heart Rate n-Variability (HRnV): A Novel Representation of Beat-to-Beat Variation in ECG
 
-\* **Dr Nan Liu: liu.nan@duke-nus.edu.sg**
+\* **Dr Nan Liu: liu.nan AT duke-nus.edu.sg**
 
 If you are conducting research on **HRnV**, please cite the following article:
 > 1) Liu N, Guo DG, Koh ZX, Ho AFW, Ong MEH. Heart Rate n-Variability (HRnV): A Novel Representation of Beat-to-Beat Variation in Electrocardiogram. bioRxiv 2018; 449504. doi: https://doi.org/10.1101/449504
