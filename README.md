@@ -21,4 +21,7 @@ In 2018, we proposed a novel representation of beat-to-beat variation in electro
 To update.
 
 ## HRnV Applications
-To update.
+**Acute Coronary Syndrome**
+> Liu N*, Guo DG, Koh ZX, Ho AFW, Xie F, Tagami T, Sakamoto JT, Pek PP, Chakraborty B, Lim SH, Tan JWC, Ong MEH. Heart Rate n-Variability (HRnV) and Its Application to Risk Stratification of Chest Pain Patients in the Emergency Department. bioRxiv 2019; 738989. doi: https://doi.org/10.1101/738989
+
+
