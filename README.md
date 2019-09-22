@@ -21,5 +21,18 @@ In 2018, we proposed a novel representation of beat-to-beat variation in electro
 **HRnV-Calc** is a software package that calculate both HRnV and conventional HRV parameters. It is built with MATLAB and runs on the MATLAB Runtime (a FREE, standalone set of shared libraries that enables the execution of compiled MATLAB applications without installing MATLAB). The following image shows the GUI of **HRnV-Calc**.
 ![](HRnV-Calc.jpg)
 
+Please do the following steps to use **HRnV-Calc** software:
+1. Download "MATLAB Runtime" (https://www.mathworks.com/products/compiler/matlab-runtime.html), and then install the software. Please download version "R2017b (9.3)".
+2. Download "HRnVCalc.rar" and then un-zip the file to obtain the executable file "HRnVCalc.exe".
+3. Run "HRnVCalc.exe" and then you will see the GUI as shown above.
+4. Load ECG/IBI data by clicking button "Open". Make sure to choose the correct sampling rate. Parameters can be calculated for individual file (option=Single) or multiple files (option=Batch).
+5. Determine preprocessing settings and run signal preprocessing by clicking button "IBI Analysis".
+   - ECG singal length: You may choose to use "Entire" ECG/IBI to calculate HRV/HRnV parameters, or use partial, in which you will need to define "Start" and "End" points.
+   - Outliers: Define the threshold to remove them or to interpolate the values with "Cubic Spline" or "pChip". A default value of 20% is used.
+   - After clicking button "IBI Analysis", preprocessing will be done and results will be summarized in "IBI Summary".
+6. Calculate HRnV or HRV parameters.
+   - Key in "n" and "m" values at top right corner of the GUI. For example, HR3V parameters are calculated when N=3 and M=0; HR3V1 parameters are calculated when N=3 and M=1; and conventional HRV parameters are calculated when N=1 and M=0.
+   - Click button "HRnVm Analysis" to start calculation. After clicking, a window will pop-out to show the file used to store the parameters. By default, the name of the file is "OriginalFileName_HRnVm.xls".
+   - Click button "Calculate all HRnVm" to calculate all parameters at one time. For example, when N=3, this function will gives you parameters of HRV, HR2V, HR2V1, HR3V, HR3V1, and HR3V2.
 
 
