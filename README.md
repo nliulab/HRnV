@@ -26,6 +26,8 @@ Please do the following steps to use **HRnV-Calc** software:
 2. Download "HRnVCalc.rar" and then un-zip the file to obtain the executable file "HRnVCalc.exe".
 3. Run "HRnVCalc.exe" and then you will see the GUI as shown above.
 4. Load ECG/IBI data by clicking button "Open". Make sure to choose the correct sampling rate. Parameters can be calculated for individual file (option=Single) or multiple files (option=Batch).
+   - Input as ECG: Raw ECG waveforms.
+   - Input as IBI: IBI indicates interbeat interval waveforms, i.e. R-R interval waveforms. (**You can consider using IBI/RRI waveforms if you have preprocessed raw ECG files**)
 5. Determine preprocessing settings and run signal preprocessing by clicking button "IBI Analysis".
    - ECG singal length: You may choose to use "Entire" ECG/IBI to calculate HRV/HRnV parameters, or use partial, in which you will need to define "Start" and "End" points.
    - Outliers: Define the threshold to remove them or to interpolate the values with "Cubic Spline" or "pChip". A default value of 20% is used to identify non-sinus RR intervals as those that occur prematurely or late. Following the Physionet Cardiovascular Signal Toolbox, changes are measured in the current RR interval from the median of previous 5 or next 5 intervals where those intervals that change by more than 20% are excluded from HRnV/HRV analysis.
