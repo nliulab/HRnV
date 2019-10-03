@@ -18,7 +18,7 @@ In 2018, we proposed a novel representation of beat-to-beat variation in electro
 > Liu N*, Guo DG, Koh ZX, Ho AFW, Xie F, Tagami T, Sakamoto JT, Pek PP, Chakraborty B, Lim SH, Tan JWC, Ong MEH. Heart Rate n-Variability (HRnV) and Its Application to Risk Stratification of Chest Pain Patients in the Emergency Department. bioRxiv 2019; 738989. doi: https://doi.org/10.1101/738989
 
 ## HRnV-Calc Software
-**HRnV-Calc** is a software package that calculate both HRnV and conventional HRV parameters. It is built with MATLAB and runs on the MATLAB Runtime (a FREE, standalone set of shared libraries that enables the execution of compiled MATLAB applications without installing MATLAB). The following image shows the GUI of **HRnV-Calc**.
+**HRnV-Calc** is a software package that calculates both HRnV and conventional HRV parameters. It is built with MATLAB and runs on the MATLAB Runtime (a FREE, standalone set of shared libraries that enables the execution of compiled MATLAB applications without installing MATLAB). The following image shows the GUI of **HRnV-Calc**.
 ![](HRnV-Calc.jpg)
 
 Please do the following steps to use **HRnV-Calc** software:
