@@ -2,7 +2,7 @@
 
 \* **Correspondence: Nan Liu (liu.nan AT duke-nus.edu.sg)**
 
-If you are conducting research on **HRnV**, please cite the following articles (Article 1 is the original methodology paper and Article 2 is the first clinical validation paper):
+If you are conducting research on **HRnV**, please cite the following articles (Article #1 is the original methodology paper and Article #2 is the first clinical paper):
 > 1) Liu N*, Guo DG, Koh ZX, Ho AFW, Ong MEH. Heart Rate n-Variability (HRnV): A Novel Representation of Beat-to-Beat Variation in Electrocardiogram. bioRxiv 2018; 449504. doi: https://doi.org/10.1101/449504
 
 > 2) Liu N*, Guo DG, Koh ZX, Ho AFW, Xie F, Tagami T, Sakamoto JT, Pek PP, Chakraborty B, Lim SH, Tan JWC, Ong MEH. Heart Rate n-Variability (HRnV) and Its Application to Risk Stratification of Chest Pain Patients in the Emergency Department. bioRxiv 2019; 738989. doi: https://doi.org/10.1101/738989
