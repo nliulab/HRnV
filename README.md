@@ -24,7 +24,7 @@ In 2018, we proposed a novel representation of beat-to-beat variation in electro
 Please do the following steps to use **HRnV-Calc** software:
 1. **Download "MATLAB Runtime"** (https://www.mathworks.com/products/compiler/matlab-runtime.html), and then install the software. Please download version "R2017b (9.3)".
 2. **Download "HRnVCalc.rar"** and then un-zip the file to obtain the executable file "HRnVCalc.exe".
-3. Run "HRnVCalc.exe" and then you will see the GUI as shown above.
+3. **Run "HRnVCalc.exe"** and then you will see the GUI as shown above.
 4. **Load ECG/IBI data by clicking button "Open"**. Make sure to choose the correct sampling rate. Parameters can be calculated for individual file (option=Single) or multiple files (option=Batch).
    - **Input as ECG**: Raw ECG waveforms.
    - **Input as IBI**: IBI indicates interbeat interval, i.e. R-R interval. (Note: You can consider using IBI/RRI waveforms as input if you have preprocessed raw ECG files)
