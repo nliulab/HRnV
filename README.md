@@ -35,4 +35,4 @@ Please do the following steps to use **HRnV-Calc** software:
 
 ## HRnV Applications
 **Acute Coronary Syndrome**
-> Liu N*, Guo DG, Koh ZX, Ho AFW, Xie F, Tagami T, Sakamoto JT, Pek PP, Chakraborty B, Lim SH, Tan JWC, Ong MEH. Heart rate n-variability (HRnV) with its application to risk stratification of chest pain patients in the emergency department. BMC Cardiovascular Disorders 2020; 20: 168. https://doi.org/10.1186/s12872-020-01455-8
+> Liu N, Guo DG, Koh ZX, Ho AFW, Xie F, Tagami T, Sakamoto JT, Pek PP, Chakraborty B, Lim SH, Tan JWC, Ong MEH. Heart rate n-variability (HRnV) with its application to risk stratification of chest pain patients in the emergency department. BMC Cardiovascular Disorders 2020; 20: 168. https://doi.org/10.1186/s12872-020-01455-8
