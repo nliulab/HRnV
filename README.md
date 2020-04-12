@@ -13,10 +13,6 @@ If you are using the **HRnV-Calc** software (**HRnV-Calc** is developed based on
 ## Introduction
 We proposed a novel representation of beat-to-beat variation in electrocardiogram (ECG), named as heart rate n-variability (HRnV), as an alternative to conventional heart rate variability (HRV). The derivation of HRnV parameters are based on multiple RR interval sequences, with or without overlap. We are able to create many sets of HRnV parameters which are promising at generating supplementary information from limited data source. We believe that HRnV is an important addition to traditional HRV, and will contribute to extending the landscape of current studies on HRV.
 
-## HRnV Applications
-**Acute Coronary Syndrome**
-> Liu N*, Guo DG, Koh ZX, Ho AFW, Xie F, Tagami T, Sakamoto JT, Pek PP, Chakraborty B, Lim SH, Tan JWC, Ong MEH. Heart Rate n-Variability (HRnV) and Its Application to Risk Stratification of Chest Pain Patients in the Emergency Department. bioRxiv 2019; 738989. doi: https://doi.org/10.1101/738989
-
 ## Software: HRnV-Calc
 **HRnV-Calc** is a software package that calculates both HRnV and conventional HRV parameters. It is built with MATLAB and runs on the MATLAB Runtime (a FREE, standalone set of shared libraries that enables the execution of compiled MATLAB applications without installing MATLAB). The following image shows the GUI of **HRnV-Calc**.
 ![](HRnV-Calc.jpg)
@@ -36,3 +32,7 @@ Please do the following steps to use **HRnV-Calc** software:
    - **Key in "n" and "m" values at top right corner of the GUI**. For example, HR3V parameters are calculated when N=3 and M=0; HR3V1 parameters are calculated when N=3 and M=1; and conventional HRV parameters are calculated when N=1 and M=0.
    - **Click button "HRnVm Analysis" to start calculation**. After clicking, a window will pop-out to show the file used to store the parameters. By default, the name of the file is "OriginalFileName_HRnVm.xls".
    - **Click button "Calculate all HRnVm" to calculate all parameters at one time**. For example, when N=3, this function will gives you parameters of HRV, HR2V, HR2V1, HR3V, HR3V1, and HR3V2.
+
+## HRnV Applications
+**Acute Coronary Syndrome**
+> Liu N*, Guo DG, Koh ZX, Ho AFW, Xie F, Tagami T, Sakamoto JT, Pek PP, Chakraborty B, Lim SH, Tan JWC, Ong MEH. Heart rate n-variability (HRnV) with its application to risk stratification of chest pain patients in the emergency department. BMC Cardiovascular Disorders 2020; 20: 168. https://doi.org/10.1186/s12872-020-01455-8
