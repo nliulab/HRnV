@@ -13,7 +13,7 @@ If you are using the **HRnV-Calc** software (**HRnV-Calc** is developed based on
 ## Introduction
 We proposed a novel representation of beat-to-beat variation in electrocardiogram (ECG), named as heart rate n-variability (HRnV), as an alternative to conventional heart rate variability (HRV). The derivation of HRnV parameters are based on multiple RR interval sequences, with or without overlap. We are able to create many sets of HRnV parameters which are promising at generating supplementary information from limited data source. We believe that HRnV is an important addition to traditional HRV, and will contribute to extending the landscape of current studies on HRV.
 
-## Software: HRnV-Calc
+## HRnV-Calc Software
 **HRnV-Calc** is a software package that calculates both HRnV and conventional HRV parameters. It is built with MATLAB and runs on the MATLAB Runtime (a FREE, standalone set of shared libraries that enables the execution of compiled MATLAB applications without installing MATLAB). The following image shows the GUI of **HRnV-Calc**.
 ![](HRnV-Calc.jpg)
 
