@@ -7,6 +7,7 @@
 
 **If you are using the "HRnV-Calc" software (HRnV-Calc is developed based on the PhysioNet Cardiovascular Signal Toolbox), please also cite the following articles:**
 > Vest A, Da Poian G, Li Q, Liu C, Nemati S, Shah A, Clifford GD. An Open Source Benchmarked Toolbox for Cardiovascular Waveform and Interval Analysis. Physiological Measurement 39, no. 10 (2018): 105004. https://doi.org/10.5281/zenodo.1243111; 2018.
+
 > Niu C, Guo D, Ong MEH, Koh ZX, Marie-Alix GAL, Ho AFW, Lin Z, Liu C, Clifford DG, Liu N. HRnV-Calc: A software for heart rate n-variability and heart rate variability analysis. Journal of Open Source Software 2023; 8(85): 5391. https://doi.org/10.21105/joss.05391
 
 ## Introduction
